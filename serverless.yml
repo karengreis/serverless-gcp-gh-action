@@ -1,4 +1,4 @@
-service: serverless-calculate-bmi-kngreislm
+service: serverless-calculate-bmi-kngr
 
 provider:
   name: google
